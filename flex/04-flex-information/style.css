@@ -38,9 +38,6 @@ img {
 }
 
 .plant {
-  display: flex;
   width: 200px;
   text-align: center;
-  flex-direction: column;
-  align-items: center;
 }
